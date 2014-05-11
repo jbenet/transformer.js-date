@@ -3,5 +3,5 @@
  "type": "type",
  "id": "js-date",
  "description": "General JS Date",
- "schema": "string"
+ "schema": "Date"
 }

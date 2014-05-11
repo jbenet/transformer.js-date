@@ -1,6 +1,6 @@
 {
   "name": "transformer.js-date",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "transformer type: General JS Date",
   "main": "index.js",
   "transformer": "transformer.jsonld",
